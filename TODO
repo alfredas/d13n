@@ -1,0 +1,15 @@
+TODOs:
+* fix the demand-not-met bug
+* refactor clearing - make it faster
+* check co2 auction dynamics
+* check wind dynamics
+* existing long-term contracts at the start?
+* long term contracts
+* scenarios
+* data!
+
+TODOs (by Joern):
+* There seems to be a bug in the spot market clearing: prices don't skyrocket if there is no investment?
+* LTC: why are only loan cost included in price calculation, and not all capital costs?
+* Is it possible to use Eclipse Debug mode on the model somehow?
+* The parameterX.propertie files are not changed accordingly when changing the scenario via the GUI

@@ -1,0 +1,56 @@
+package d13n.domain;
+
+
+public abstract class Rels {
+    public static final String REGARDING_POWERPLANT = "REGARDING_POWERPLANT";
+    public static final String LOAN = "LOAN";
+    public static final String MARKET_POINT = "MARKET_POINT";
+    public static final String SEGMENT_POINT = "SEGMENT_POINT";
+    public static final String SEGMENT_LOAD = "SEGMENT_LOAD";
+    public static final String SEGMENTLOAD_SEGMENT = "SEGMENTLOAD_SEGMENT";
+    public static final String TRADED_SUBSTANCE = "TRADED_SUBSTANCE";
+    public static final String FUEL_MIX = "FUEL_MIX";
+    public static final String FUELS = "FUELS";
+    public static final String POWERPLANT = "POWERPLANT";
+    public static final String TREND = "TREND";
+    public static final String BID = "BID";
+    public static final String CO2TAX_TREND = "CO2TAX_TREND";
+    public static final String CO2CAP_TREND = "CO2CAP_TREND";
+    public static final String MINCO2PRICE_TREND = "MINCO2PRICE_TREND";
+    public static final String TECHNOLOGY = "TECHNOLOGY";
+    public static final String MAIN_FUEL = "MAIN_FUEL";
+    public static final String CO_FUEL = "CO_FUEL";
+    public static final String OWNER = "OWNER";
+    public static final String LOCATION = "LOCATION";
+    public static final String PHYSICAL_FLOW = "PHYSICAL_FLOW";
+    public static final String CONTRACT_FROM = "CONTRACT_FROM";
+    public static final String CONTRACT_TO = "CONTRACT_TO";
+    public static final String CARRIER = "CARRIER";
+    public static final String SEGMENT = "SEGMENT";
+    public static final String SUBSTANCE = "SUBSTANCE";
+    public static final String ZONE = "ZONE";
+    public static final String MARKET = "MARKET";
+    public static final String REGION = "REGION";
+    public static final String LEND_TO_AGENT = "LEND_TO_AGENT";
+    public static final String LEND_BY_AGENT = "LEND_BY_AGENT";
+    public static final String POWERPLANT_CO2 = "POWERPLANT_CO2";
+    public static final String SEGMENT_CO2 = "SEGMENT_CO2";
+    public static final String CURVE_SECTION = "CURVE_SECTION";
+    public static final String SEGMENT_SET = "SEGMENT_SET";
+    public static final String LONGTERMCONTRACTOFFER_POWERPLANT ="LONGTERMCONTRACTOFFER_POWERPLANT";
+    public static final String LONGTERMCONTRACTOFFER_TYPE ="LONGTERMCONTRACTOFFER_TYPE";
+    public static final String LONGTERMCONTRACTOFFER_SELLER ="LONGTERMCONTRACTOFFER_SELLER";
+    public static final String LONGTERMCONTRACTOFFER_ZONE ="LONGTERMCONTRACTOFFER_ZONE";
+    public static final String LONGTERMCONTRACT_TYPE ="LONGTERMCONTRACT_TYPE";
+    public static final String LONGTERMCONTRACT_ZONE = "LONGTERMCONTRACT_ZONE";
+    public static final String LONGTERMCONTRACT_MAINFUEL = "LONGTERMCONTRACT_MAINFUEL";
+    public static final String LONGTERMCONTRACT_POWERPLANT = "LONGTERMCONTRACT_POWERPLANT";
+    public static final String LONGTERMCONTRACTTYPE_NEXT = "LONGTERMCONTRACTTYPE_NEXT";
+    public static final String LONGTERMCONTRACTTYPE_SEGMENTS = "LONGTERMCONTRACTTYPE_SEGMENTS";
+    public static final String SELLING_AGENT = "SELLING_AGENT";
+    public static final String BUYING_AGENT_SPOT = "BUYING_AGENT_SPOT";
+    public static final String BUYING_AGENT_LONGTERM = "BUYING_AGENT_LONGTERM";
+    public static final String SEGMENT_DISPATCHPLAN = "SEGMENT_DISPATCHPLAN";
+    public static final String POWERPLANT_DISPATCHPLAN = "POWERPLANT_DISPATCHPLAN";
+    public static final String POWERPLANT_OWNER = "POWERPLANT_OWNER";
+}
